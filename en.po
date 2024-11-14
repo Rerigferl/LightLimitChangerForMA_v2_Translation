@@ -1,0 +1,10 @@
+msgid ""
+msgstr ""
+"Language: en\n"
+
+# Labels for settings items
+msgid "settings:lighting/minLight/label"
+msgstr "Min Brightness"
+
+msgid "settings:lighting/minLight/description"
+msgstr "Min Brightness is the Min Brightness"
